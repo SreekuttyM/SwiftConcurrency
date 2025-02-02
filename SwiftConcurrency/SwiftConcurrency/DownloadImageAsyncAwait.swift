@@ -79,7 +79,7 @@ class AsyncImageViewModel : ObservableObject {
     }
 }
 
-struct AsyncAwait: View {
+struct DownloadImageAsyncAwait: View {
     @ObservedObject var viewModel = AsyncImageViewModel()
     var body: some View {
         ZStack {
