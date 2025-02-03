@@ -17,6 +17,7 @@
 		4D5E778D2D4F8C720079D2D7 /* DeepDiveTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5E778C2D4F8C720079D2D7 /* DeepDiveTask.swift */; };
 		4D69C6E42D50B35200A7A9DC /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D69C6E32D50B35200A7A9DC /* AsyncLet.swift */; };
 		4D69C6E62D50C94900A7A9DC /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D69C6E52D50C94900A7A9DC /* TaskGroup.swift */; };
+		4D69C6E82D50D28200A7A9DC /* Continuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D69C6E72D50D28200A7A9DC /* Continuation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		4D5E778C2D4F8C720079D2D7 /* DeepDiveTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepDiveTask.swift; sourceTree = "<group>"; };
 		4D69C6E32D50B35200A7A9DC /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		4D69C6E52D50C94900A7A9DC /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
+		4D69C6E72D50D28200A7A9DC /* Continuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Continuation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				4D5E778C2D4F8C720079D2D7 /* DeepDiveTask.swift */,
 				4D69C6E32D50B35200A7A9DC /* AsyncLet.swift */,
 				4D69C6E52D50C94900A7A9DC /* TaskGroup.swift */,
+				4D69C6E72D50D28200A7A9DC /* Continuation.swift */,
 				4D15F2E02D4D46D600D5BAD0 /* Assets.xcassets */,
 				4D15F2E22D4D46D600D5BAD0 /* Preview Content */,
 			);
@@ -161,6 +164,7 @@
 				4D69C6E42D50B35200A7A9DC /* AsyncLet.swift in Sources */,
 				4D5E778B2D4F6B910079D2D7 /* AsyncAwait.swift in Sources */,
 				4D15F2DD2D4D46D200D5BAD0 /* SwiftConcurrencyApp.swift in Sources */,
+				4D69C6E82D50D28200A7A9DC /* Continuation.swift in Sources */,
 				4D5E778D2D4F8C720079D2D7 /* DeepDiveTask.swift in Sources */,
 				4D15F2EF2D4E494800D5BAD0 /* DownloadImageAsyncAwait.swift in Sources */,
 			);
