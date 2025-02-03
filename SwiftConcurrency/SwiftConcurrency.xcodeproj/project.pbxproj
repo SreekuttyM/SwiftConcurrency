@@ -16,6 +16,7 @@
 		4D5E778B2D4F6B910079D2D7 /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5E778A2D4F6B910079D2D7 /* AsyncAwait.swift */; };
 		4D5E778D2D4F8C720079D2D7 /* DeepDiveTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5E778C2D4F8C720079D2D7 /* DeepDiveTask.swift */; };
 		4D69C6E42D50B35200A7A9DC /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D69C6E32D50B35200A7A9DC /* AsyncLet.swift */; };
+		4D69C6E62D50C94900A7A9DC /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D69C6E52D50C94900A7A9DC /* TaskGroup.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4D5E778A2D4F6B910079D2D7 /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		4D5E778C2D4F8C720079D2D7 /* DeepDiveTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepDiveTask.swift; sourceTree = "<group>"; };
 		4D69C6E32D50B35200A7A9DC /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
+		4D69C6E52D50C94900A7A9DC /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				4D15F2EE2D4E494800D5BAD0 /* DownloadImageAsyncAwait.swift */,
 				4D5E778C2D4F8C720079D2D7 /* DeepDiveTask.swift */,
 				4D69C6E32D50B35200A7A9DC /* AsyncLet.swift */,
+				4D69C6E52D50C94900A7A9DC /* TaskGroup.swift */,
 				4D15F2E02D4D46D600D5BAD0 /* Assets.xcassets */,
 				4D15F2E22D4D46D600D5BAD0 /* Preview Content */,
 			);
@@ -154,6 +157,7 @@
 			files = (
 				4D15F2ED2D4E17D900D5BAD0 /* DoCatchTry.swift in Sources */,
 				4D15F2DF2D4D46D200D5BAD0 /* ContentView.swift in Sources */,
+				4D69C6E62D50C94900A7A9DC /* TaskGroup.swift in Sources */,
 				4D69C6E42D50B35200A7A9DC /* AsyncLet.swift in Sources */,
 				4D5E778B2D4F6B910079D2D7 /* AsyncAwait.swift in Sources */,
 				4D15F2DD2D4D46D200D5BAD0 /* SwiftConcurrencyApp.swift in Sources */,
